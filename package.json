@@ -1,0 +1,23 @@
+{
+  "name": "mustache.js",
+  "version": "1.0.0",
+  "description": "Using mustache for JS templating",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mkneto300/mustache-usage.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mkneto300/mustache-usage/issues"
+  },
+  "homepage": "https://github.com/mkneto300/mustache-usage#readme",
+  "dependencies": {
+    "mustache": "^2.3.0"
+  }
+}
